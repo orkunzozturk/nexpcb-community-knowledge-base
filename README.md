@@ -11,3 +11,4 @@ gatsby new https://github.com/mlent/gatsby-starter-help-center
 
 If you have an issue with the original theme, please file it in the theme repo instead of here:
 https://github.com/mlent/gatsby-theme-help-center
+# nexpcb-community-knowledge-base
